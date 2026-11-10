@@ -38,7 +38,7 @@ This involves:
 
   This is used to judge if the rule used in the market basket analysis happened to be there by chance or not.
 
-  The notebook of this project can be found here: https://nbviewer.org/github/Chukwuebuka-2003/market-basket-analysis/blob/main/model.ipynb
+  The notebook of this project can be found here: (https://nbviewer.org/github/PressyEms/market-basket-analysis/blob/main/model.ipynb)
 
   The Medium article that was written based on this project can be found here: https://medium.com/@ebulamicheal/implementing-ml-in-a-retail-success-johns-data-driven-store-transformation-669080fea242
 
