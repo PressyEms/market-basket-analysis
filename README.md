@@ -7,7 +7,7 @@ This involves:
 
 - Support:
 
-  ![image](<img width="478" height="138" alt="image" src="https://github.com/user-attachments/assets/2bc31a29-c1bc-4c1b-a282-7d47791b91d3" />
+  ![image](https://github.com/Chukwuebuka-2003/market-basket-analysis/assets/56232734/de274f6e-f41c-4e16-ba8d-3d9ca6f63c63)
 )
 
   This metric gives an idea of how frequent an item is in the transactions of the given data.
