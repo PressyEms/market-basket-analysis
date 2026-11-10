@@ -40,6 +40,6 @@ This involves:
 
   The notebook of this project can be found here: (https://nbviewer.org/github/PressyEms/market-basket-analysis/blob/main/model.ipynb)
 
-  The Medium article that was written based on this project can be found here: (https://medium.com/@pressydeux018/implementing-ml-in-a-retail-success-johns-data-driven-store-transformation-f3a43001f44c)
+  The Medium article for this project can be found here: (https://medium.com/@pressydeux018/implementing-ml-in-a-retail-success-johns-data-driven-store-transformation-f3a43001f44c)
 
 
